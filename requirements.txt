@@ -1,0 +1,16 @@
+# NOTE: Semantic Kernel pulls a newer starlette than FastAPI 0.115 allows, so we
+# use a FastAPI that's compatible with it (>=0.136). Let pip resolve the rest.
+fastapi>=0.136.0
+uvicorn[standard]>=0.34.0
+pydantic>=2.10
+pydantic-settings>=2.7
+python-dotenv>=1.0
+
+# Semantic Kernel (runs the kernel + native plugin)
+semantic-kernel>=1.0.0
+azure-identity>=1.19.0
+
+# tests / quality
+pytest>=8.3
+httpx>=0.28
+ruff>=0.8
