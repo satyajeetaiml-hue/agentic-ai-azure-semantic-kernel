@@ -68,5 +68,7 @@ MIT — see [`LICENSE`](LICENSE).
 
 Download the **7-slide deck** for classroom use: [`agentic-ai-azure-semantic-kernel.pptx`](slides/agentic-ai-azure-semantic-kernel.pptx)
 
+Prefer PDF? Download the **handout (slides + speaker notes)**: [`agentic-ai-azure-semantic-kernel-handout.pdf`](slides/agentic-ai-azure-semantic-kernel-handout.pdf)
+
 > Slides: Title · Learning goal · Enterprise use case · Architecture/flow · Key concepts · Run it · Architect's takeaways.
 
