@@ -63,3 +63,10 @@ tests/test_app.py
 
 ## 📄 License
 MIT — see [`LICENSE`](LICENSE).
+
+## 📊 Teaching slides
+
+Download the **7-slide deck** for classroom use: [`agentic-ai-azure-semantic-kernel.pptx`](slides/agentic-ai-azure-semantic-kernel.pptx)
+
+> Slides: Title · Learning goal · Enterprise use case · Architecture/flow · Key concepts · Run it · Architect's takeaways.
+
